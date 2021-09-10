@@ -1,7 +1,6 @@
-function Details(){
+function Details() {
     return (
         <div>
-            {id}
         </div>
     );
 }
